@@ -1,0 +1,2 @@
+# FitnessBandEmbedded
+Designing a fitness band which will help people to get the details of their heart rate, number of steps walked, temperature of the body, speed and etc. we will use arduino UNO as the micro controller with heartbeat sensor, accelero-gyro sensor, temperature sensor. These sensors will calculate heartbeat, speed, angular velocity, and body temperature. The device will be connected to an android smartphone in which it will show the results.
